@@ -1,0 +1,7 @@
+//useStdLogicVariables: true.
+setParam: treeDepth=3.
+setParam: nodeSize=2.
+setParam: numOfClauses=8.
+mode: highValue(+State,#Value).
+//target
+mode: left(+State).
